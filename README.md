@@ -3,7 +3,9 @@
 
 - 🌱 I’m currently learning **Alura LATAM**
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT,**
+- 👨‍💻 All of my projects are available at [https://franciscojlopezudev.github.io/portfolio/](https://franciscojlopezudev.github.io/portfolio/)
+
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT**
 
 - 📫 How to reach me **franciscojlopezudev@hotmail.com**
 
