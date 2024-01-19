@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://franciscojlopezudev.github.io/portfolio/](https://franciscojlopezudev.github.io/portfolio/)
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT**
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT +frameworks como React, Express y Node**
 
 - 📫 How to reach me **franciscojlopezudev@hotmail.com**
 
