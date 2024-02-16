@@ -1,5 +1,5 @@
 <h1 align="center">Hola👋, me llamo Francisco López</h1>
-<h3 align="center">Soy un Desarrollador Web Front-End</h3>
+<h3 align="center">Soy un Desarrollador Front-end</h3>
 
 - 🌱 I’m currently learning **Alura LATAM**
 
