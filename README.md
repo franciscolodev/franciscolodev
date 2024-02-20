@@ -1,5 +1,5 @@
 <h1 align="center">Hola👋, me llamo Francisco López</h1>
-<h3 align="center">Soy un Desarrollador Front-end</h3>
+<h3 align="center">Soy Desarrollador Front-end</h3>
 
 - 🌱 I’m currently learning **Alura LATAM**
 
@@ -7,12 +7,12 @@
 
 - 💬 Ask me about **HTML, CSS, JAVASCRIPT y React**
 
-- 📫 How to reach me **franciscojlopezudev@hotmail.com**
+- 📫  How to reach me **franciscolodev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/fjludev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="franlodev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/franciscojlopezu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="franciscojlopezu" height="30" width="40" /></a>
+<a href="https://twitter.com/franciscolodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="franlodev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/franciscolodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="franciscojlopezu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
