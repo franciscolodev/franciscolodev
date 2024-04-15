@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://franciscolodev.github.io/portfolio/](https://franciscolodev.github.io/portfolio/)
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT y React**
+- 💬 Ask me about **HTML, CSS, JavaScript y React**
 
 - 📫  How to reach me **franciscolodev@gmail.com**
 
