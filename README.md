@@ -1,7 +1,7 @@
 <h1 align="center">Hola👋, me llamo Francisco López</h1>
 <h3 align="center">Soy Desarrollador Front-end</h3>
 
-- 🌱 I’m currently learning **Alura LATAM** and i'm currently learning new tools and frameworks
+- 🌱 I started taking courses in **Alura LATAM** and i'm currently learning new tools and frameworks
 
 - 👨‍💻 All of my projects are available at [https://franciscolodev.github.io/portfolio/](https://franciscolodev.github.io/portfolio/)
 
