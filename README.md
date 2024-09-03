@@ -1,4 +1,4 @@
-<h1 align="center">Hola👋, me llamo Francisco López</h1>
+<h1 align="center">Hola👋,soy Francisco López  </h1>
 <h3 align="center">Soy Desarrollador Front-end</h3>
 
 - 🌱 I started taking courses in **Alura LATAM** and i'm currently learning new tools and frameworks
