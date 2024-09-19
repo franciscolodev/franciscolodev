@@ -1,5 +1,6 @@
 <h1 align="center">Hola👋,soy Francisco López  </h1>
-<iframe src="https://giphy.com/embed/zbMRZx113HKBkeCwrm" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/CleverCodeLab-computer-working-pc-zbMRZx113HKBkeCwrm">via GIPHY</a></p><h3 align="center">Soy Desarrollador Front-end</h3>
+<iframe src="https://giphy.com/embed/zbMRZx113HKBkeCwrm" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/CleverCodeLab-computer-working-pc-zbMRZx113HKBkeCwrm">via GIPHY</a></p>
+<h3 align="center">Soy Desarrollador Front-end</h3>
 
 - 🌱 I started taking courses in **Alura LATAM** and i'm currently learning new tools and frameworks
 
@@ -12,9 +13,13 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) (https://www.linkedin.com/in/franciscolodev/)
+<div id="badges">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+</div>
   
-<a href="https://twitter.com/franciscolodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="franlodev" height="30" width="40" /></a>
+<a href="https://twitter.com/franciscolodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="franciscolodev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/franciscolodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="franciscolodev" height="30" width="40" /></a>
 </p>
 
