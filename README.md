@@ -6,7 +6,7 @@ Front End Developer
 
 🌱I started taking courses at Alura LATAM and I am currently learning new tools and frameworks.
 
-* 🌍  I'm based in Argentina
+* 🌍  I'm from Argentina
 * 🖥️  See my portfolio at [Portfolio](http://franciscolodev.com/)
 * ✉️  You can contact me at [franciscolodev@gmail.com](mailto:franciscolodev@gmail.com)
 
