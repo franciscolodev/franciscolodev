@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front End Developer
 -------------------
 
-🌱I started taking courses at Alura LATAM and I am currently learning new tools and frameworks.
+🌱I started taking courses at Alura LATAM and I am currently learning new tools and frameworks. Studying University Technician in Programming at UTN
 
 * 🌍  I'm from Argentina
 * 🖥️  See my portfolio at [Portfolio](http://franciscolodev.com/)
