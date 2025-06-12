@@ -30,22 +30,22 @@ src="https://img.shields.io/twitter/follow/franciscolodev?logo=twitter&style=for
 ###################
 <p align="left">
   <a href="https://github.com/tuusuario" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github&theme=light" width="36" height="36" alt="GitHub" />
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" width="36" height="36" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/tuusuario" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" width="36" height="36" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="36" height="36" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/tuusuario" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter&theme=light" width="36" height="36" alt="Twitter" />
+    <img src="https://skillicons.dev/icons?i=twitter&theme=dark" width="36" height="36" alt="Twitter" />
   </a>
   <a href="https://www.instagram.com/tuusuario" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram&theme=light" width="36" height="36" alt="Instagram" />
+    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="36" height="36" alt="Instagram" />
   </a>
   <a href="https://discord.gg/tuinvitacion" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord&theme=light" width="36" height="36" alt="Discord" />
+    <img src="https://skillicons.dev/icons?i=discord&theme=dark" width="36" height="36" alt="Discord" />
   </a>
   <a href="mailto:tuemail@example.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=light" width="36" height="36" alt="Gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="36" height="36" alt="Gmail" />
   </a>
 </p>
 
