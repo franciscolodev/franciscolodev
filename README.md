@@ -35,8 +35,8 @@ src="https://img.shields.io/twitter/follow/franciscolodev?logo=twitter&style=for
   <a href="https://www.linkedin.com/in/tuusuario" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="36" height="36" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/tuusuario" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter&theme=dark" width="36" height="36" alt="Twitter" />
+  <a href="https://x.com/tuusuario" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter&theme=dark" width="36" height="36" alt="X (Twitter)" />
   </a>
   <a href="https://www.instagram.com/tuusuario" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="36" height="36" alt="Instagram" />
@@ -44,10 +44,12 @@ src="https://img.shields.io/twitter/follow/franciscolodev?logo=twitter&style=for
   <a href="https://discord.gg/tuinvitacion" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord&theme=dark" width="36" height="36" alt="Discord" />
   </a>
-  <a href="mailto:tuemail@example.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="36" height="36" alt="Gmail" />
+  <a href="https://www.tusitio.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=wordpress&theme=dark" width="36" height="36" alt="Sitio Web" />
   </a>
-</p>
+  <a href="https://youtube.com/@tuusuario" target="_blank">
+    <img src="https://skillic
+
 
 
 ### Badges
