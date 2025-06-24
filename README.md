@@ -29,25 +29,25 @@ src="https://img.shields.io/twitter/follow/franciscolodev?logo=twitter&style=for
 
 ###################
 <p align="left">
-  <a href="https://github.com/tuusuario" target="_blank">
+  <a href="https://github.com/franciscolodev" target="_blank">
     <img src="https://skillicons.dev/icons?i=github&theme=dark" width="36" height="36" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/tuusuario" target="_blank">
+  <a href="https://www.linkedin.com/in/franciscolodev" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="36" height="36" alt="LinkedIn" />
   </a>
-  <a href="https://x.com/tuusuario" target="_blank">
+  <a href="https://x.com/franciscolodev" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter&theme=dark" width="36" height="36" alt="X (Twitter)" />
   </a>
-  <a href="https://www.instagram.com/tuusuario" target="_blank">
+  <a href="https://www.instagram.com/franciscolodev" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="36" height="36" alt="Instagram" />
   </a>
   <a href="https://discord.gg/tuinvitacion" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord&theme=dark" width="36" height="36" alt="Discord" />
   </a>
-  <a href="https://www.tusitio.com" target="_blank">
+  <a href="https://www.franciscolodev.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=wordpress&theme=dark" width="36" height="36" alt="Sitio Web" />
   </a>
-  <a href="https://youtube.com/@tuusuario" target="_blank">
+  <a href="https://youtube.com/@franciscolodev" target="_blank">
     <img src="https://skillic
 
 
