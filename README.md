@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Francisco
+Welcome, I'm Francisco López ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 =================================================================================================================================
 
 Front End Developer
@@ -19,7 +19,7 @@ src="https://img.shields.io/twitter/follow/franciscolodev?logo=twitter&style=for
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,astro,react,tailwind,nodejs,python,mysql,docker,firebase,git,github,bash,npm,vercel,hostinger&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind css,js,typescript,react,nodejs,astro,git,github,python,bash,npm,mongodb,docker,firebasevercel,apiREST,googlecloud,powershell,figma,vsc,hostinger&theme=light" />
   </a>
 </p>
 
