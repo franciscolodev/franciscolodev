@@ -19,7 +19,7 @@ src="https://img.shields.io/twitter/follow/franciscolodev?logo=twitter&style=for
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind css,js,typescript,react,nodejs,astro,git,github,python,bash,npm,mongodb,docker,firebasevercel,apiREST,googlecloud,powershell,figma,vsc,hostinger&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,typescript,react,nodejs,astro,git,github,python,bash,npm,mongodb,docker,firebase,vercel,googlecloud,powershell,figma,vsc&theme=dark&perline=10" alt="Tech stack" />
   </a>
 </p>
 
