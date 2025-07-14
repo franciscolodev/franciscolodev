@@ -29,7 +29,7 @@ src="https://img.shields.io/twitter/follow/franciscolodev?logo=twitter&style=for
 ## Socials
 
 <p align="left" style="display: flex; gap: 16px;">
-  <a href="https://discord.com/users/franciscolodev" target="_blank" rel="noreferrer" style="background: #000; border-radius: 12px; padding: 12px; display: inline-block;">
+  <a href="[https://discord.com/users/franciscolodev](https://discord.gg/g25nYhPZ)" target="_blank" rel="noreferrer" style="background: #000; border-radius: 12px; padding: 12px; display: inline-block;">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="36" height="36" />
   </a>
   <a href="https://www.github.com/franciscolodev" target="_blank" rel="noreferrer" style="background: #000; border-radius: 12px; padding: 12px; display: inline-block;">
