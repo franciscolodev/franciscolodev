@@ -18,7 +18,7 @@ src="https://img.shields.io/github/followers/franciscolodev?logo=github&style=fo
 src="https://img.shields.io/twitter/follow/franciscolodev?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
-### Skills
+## Technologies
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -26,7 +26,7 @@ src="https://img.shields.io/twitter/follow/franciscolodev?logo=twitter&style=for
   </a>
 </p>
 
-### Socials
+## Socials
 
 <p align="left" style="display: flex; gap: 16px;">
   <a href="https://discord.com/users/franciscolodev" target="_blank" rel="noreferrer" style="background: #000; border-radius: 12px; padding: 12px; display: inline-block;">
@@ -51,9 +51,3 @@ src="https://img.shields.io/twitter/follow/franciscolodev?logo=twitter&style=for
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="36" height="36" />
   </a>
 </p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-
