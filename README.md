@@ -14,9 +14,7 @@ Front End/Web Developer
 * ✉️  You can contact me at [franciscolodev@gmail.com](mailto:franciscolodev@gmail.com)
 
 <a href="https://www.github.com/franciscolodev" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/franciscolodev?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/franciscolodev" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/franciscolodev?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+src="https://img.shields.io/github/followers/franciscolodev?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ## Technologies
 
