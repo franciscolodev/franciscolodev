@@ -23,6 +23,7 @@ src="https://img.shields.io/github/followers/franciscolodev?logo=github&style=fo
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,typescript,react,nodejs,astro,git,github,bash,npm,mongodb,docker,firebase,googlecloud,powershell,vscode,figma,vercel,hostinger&theme=dark&perline=10" alt="Tech stack" />
   </a>
 </p>
+
 ## Socials
 
 <p align="left" style="display: flex; gap: 16px;">
