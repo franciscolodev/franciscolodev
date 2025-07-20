@@ -6,9 +6,8 @@ Front End/Web Developer
 <a href="http://www.github.com/franciscolodev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=franciscolodev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 ## About Me
-🌱I started taking courses at Alura LATAM and I am currently learning new tools and frameworks. Currently studying University Technician in Programming at Universidad Tecnológica Nacional (UTN).
+🌱I began my journey in development with courses at Alura Latam. I'm currently pursuing a University Technician degree in Programming at the National Technological University (UTN), while also learning new tools, languages, and frameworks on my own.
 
-* ⌛ I'm passionate about personal growth and staying productive.
 * 🤝 I thrive in collaborative environments and enjoy working with others.
 * 🖥️  See my portfolio at [Portfolio](http://franciscolodev.com/)
 * ✉️  You can contact me at [franciscolodev@gmail.com](mailto:franciscolodev@gmail.com)
