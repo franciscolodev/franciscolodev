@@ -17,20 +17,9 @@ src="https://img.shields.io/github/followers/franciscolodev?logo=github&style=fo
 
 ## Technologies
 
-<style>
-  .tech-stack {
-    display: inline-block;
-    transition: transform 0.3s ease;
-  }
-
-  .tech-stack:hover {
-    transform: scale(1.05);
-  }
-</style>
-
 <p align="left">
-  <a href="https://skillicons.dev" target="_blank">
-    <img class="tech-stack" src="https://skillicons.dev/icons?i=html,css,tailwind,js,typescript,react,nodejs,astro,git,github,bash,npm,mongodb,docker,firebase,googlecloud,powershell,vscode,figma,vercel,hostinger&theme=dark&perline=10" alt="Tech stack" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,typescript,react,nodejs,astro,git,github,bash,npm,mongodb,docker,firebase,googlecloud,powershell,vscode,figma,vercel,hostinger&theme=dark&perline=10" alt="Tech stack" />
   </a>
 </p>
 
