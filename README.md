@@ -19,15 +19,18 @@ src="https://img.shields.io/github/followers/franciscolodev?logo=github&style=fo
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,typescript,react,nodejs,astro,git,github,bash,npm,mongodb,docker,firebase,googlecloud,powershell,vscode,figma,vercel,hostinger&theme=dark&perline=10" alt="Tech stack" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,typescript,react,nodejs,astro,git,github,bash,npm,mongodb,docker,firebase,googlecloud,powershell,vscode,figma,vercel,hostinger&theme=dark&perline=10" alt="Tech stack" />
   </a>
 </p>
 
 ## Socials
 
 <p align="left" style="display: flex; gap: 16px;">
-  <a href="https://discord.gg/g25nYhPZ" target="_blank" rel="noreferrer" style="background: #000; border-radius: 12px; padding: 12px; display: inline-block;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="36" height="36" />
+ <a href="https://franciscolodev.com" target="_blank" rel="noreferrer" style="background: #000; border-radius: 12px; padding: 12px; display: inline-block;">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="36" height="36" />
+  </a>
+  <a href="https://www.linkedin.com/in/franciscolodev" target="_blank" rel="noreferrer" style="background: #000; border-radius: 12px; padding: 12px; display: inline-block;">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="36" height="36" />
   </a>
   <a href="https://www.github.com/franciscolodev" target="_blank" rel="noreferrer" style="background: #000; border-radius: 12px; padding: 12px; display: inline-block;">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="36" height="36" />
@@ -35,16 +38,13 @@ src="https://img.shields.io/github/followers/franciscolodev?logo=github&style=fo
   <a href="http://www.instagram.com/franciscolodev" target="_blank" rel="noreferrer" style="background: #000; border-radius: 12px; padding: 12px; display: inline-block;">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="36" height="36" />
   </a>
-  <a href="https://www.linkedin.com/in/franciscolodev" target="_blank" rel="noreferrer" style="background: #000; border-radius: 12px; padding: 12px; display: inline-block;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="36" height="36" />
-  </a>
-  <a href="https://franciscolodev.com" target="_blank" rel="noreferrer" style="background: #000; border-radius: 12px; padding: 12px; display: inline-block;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="36" height="36" />
+   <a href="https://www.youtube.com/@franciscolodev" target="_blank" rel="noreferrer" style="background: #000; border-radius: 12px; padding: 12px; display: inline-block;">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="36" height="36" />
+  </a>  
+   <a href="https://discord.gg/g25nYhPZ" target="_blank" rel="noreferrer" style="background: #000; border-radius: 12px; padding: 12px; display: inline-block;">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="36" height="36" />
   </a>
   <a href="https://www.x.com/franciscolodev" target="_blank" rel="noreferrer" style="background: #000; border-radius: 12px; padding: 12px; display: inline-block;">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="36" height="36" />
-  </a>
-  <a href="https://www.youtube.com/@franciscolodev" target="_blank" rel="noreferrer" style="background: #000; border-radius: 12px; padding: 12px; display: inline-block;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="36" height="36" />
   </a>
 </p>
