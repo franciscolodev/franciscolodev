@@ -3,7 +3,7 @@ Welcome, I'm Francisco López ![](https://user-images.githubusercontent.com/1835
 
 Web Developer
 -------------------
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=franciscolodev&theme=buefy-dark" alt="GitHub Streak" /></a>
+<a href="http://www.github.com/franciscolodev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=franciscolodev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 ## About Me
 🌱I began my journey in development with courses at Alura Latam. I'm currently pursuing a **University Technician degree in Programming at the National Technological University** (UTN), while also learning new tools, languages, and frameworks on my own.
