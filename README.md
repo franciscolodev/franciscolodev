@@ -8,7 +8,7 @@ Software Developer
 ## About Me
 🌱I began my journey in development with courses at Alura Latam. I'm currently completing my **University Technical Degree in Programming** at **National Technological University** (UTN), while also learning new tools, languages, and frameworks on my own.
 
-* 🤝 I thrive in collaborative environments and enjoy working with others.
+* 🤝 I believe individual growth is also built through collaboration and collective learning.
 * 🖥️  See my [Portfolio](http://franciscolodev.com/)
 * ✉️  You can contact me at [franciscolodev@gmail.com](mailto:franciscolodev@gmail.com)
 
