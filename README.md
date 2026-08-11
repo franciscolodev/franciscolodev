@@ -1,7 +1,7 @@
 Welcome, I'm Francisco López ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 =================================================================================================================================
 
-Web Developer
+Software Developer
 -------------------
 <a href="http://www.github.com/franciscolodev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=franciscolodev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
@@ -19,7 +19,7 @@ src="https://img.shields.io/github/followers/franciscolodev?logo=github&style=fo
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,typescript,react,nodejs,astro,git,github,bash,npm,vite,firebase,mongodb,docker,googlecloud,vscode,figma,vercel,hostinger&theme=dark&perline=10" alt="Tech stack" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,typescript,react,nodejs,astro,git,github,bash,vite,firebase,mongodb,mysql,docker,googlecloud,vscode,figma,vercel,hostinger&theme=dark&perline=10" alt="Tech stack" />
   </a>
 </p>
 
