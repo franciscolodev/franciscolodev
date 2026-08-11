@@ -9,7 +9,7 @@ Web Developer
 🌱I began my journey in development with courses at Alura Latam. I'm currently pursuing a **University Technician degree in Programming at the National Technological University** (UTN), while also learning new tools, languages, and frameworks on my own.
 
 * 🤝 I thrive in collaborative environments and enjoy working with others.
-* 🖥️  See my portfolio at [Portfolio](http://franciscolodev.com/)
+* 🖥️  See my [Portfolio](http://franciscolodev.com/)
 * ✉️  You can contact me at [franciscolodev@gmail.com](mailto:franciscolodev@gmail.com)
 
 <a href="https://www.github.com/franciscolodev" target="_blank" rel="noreferrer"><img
