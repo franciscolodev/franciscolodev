@@ -14,9 +14,6 @@ Software Developer
 * 🖥️  See my [Portfolio](http://franciscolodev.com/)
 * ✉️  You can contact me at [franciscolodev@gmail.com](mailto:franciscolodev@gmail.com)
 
-<a href="https://www.github.com/franciscolodev" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/franciscolodev?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
 ## Technologies
 <p align="left">
   <a href="https://skillicons.dev">
