@@ -21,6 +21,11 @@ src="https://img.shields.io/github/followers/franciscolodev?logo=github&style=fo
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,typescript,react,nodejs,astro,git,github,bash,vite,firebase,mongodb,mysql,docker,googlecloud,vscode,figma,vercel,hostinger&theme=dark&perline=10" alt="Tech stack" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,ts,react,nodejs,astro,git,java,github&theme=dark&perline=11" alt="Tech stack row 1" />
+  </a>
+</p>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,vite,firebase,mongodb,mysql,postgres,docker,gcp,vscode,figma,vercel&theme=dark&perline=11" alt="Tech stack row 2" />
   </a>
 </p>
