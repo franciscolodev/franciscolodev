@@ -18,10 +18,9 @@ Software Developer
 src="https://img.shields.io/github/followers/franciscolodev?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ## Technologies
-
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,ts,react,nodejs,astro,git,java,github&theme=dark&perline=11" alt="Tech stack row 1" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,ts,react,nodejs,astro,git,java,gitlab&theme=dark&perline=11" alt="Tech stack row 1" />
   </a>
 </p>
 <p align="left">
