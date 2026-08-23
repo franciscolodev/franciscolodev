@@ -17,11 +17,11 @@ Software Developer
 ## Technologies
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,ts,react,nodejs,astro,git,java,gitlab&theme=dark&perline=11" alt="Tech stack row 1" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,react,nextjs,astro,nodejs,express,git,github,gitlab&theme=dark&perline=13" alt="Tech stack row 1" />
   </a>
 </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,vite,firebase,mongodb,mysql,postgres,docker,gcp,vscode,figma,vercel&theme=dark&perline=11" alt="Tech stack row 2" />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,firebase,docker,gcp,vercel,pnpm,bash,vite,vscode,figma&theme=dark&perline=13" alt="Tech stack row 2" />
   </a>
 </p>
