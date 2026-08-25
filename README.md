@@ -18,44 +18,44 @@ Software Developer
 
 <p align="left">
   <!-- Fila 1: Lenguajes (4) + Frontend (8) + Backend (6) = 18 -->
-  <img src="https://img.shields.io/badge/-%20?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&color=1e1e1e" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-%20?style=for-the-badge&logo=typescript&logoColor=%233178C6&color=1e1e1e" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/-%20?style=for-the-badge&logo=openjdk&logoColor=%23ED8B00&color=1e1e1e" alt="Java" />
-  <img src="https://img.shields.io/badge/-%20?style=for-the-badge&logo=sqlite&logoColor=%23003B57&color=1e1e1e" alt="SQL" />
-  <img src="https://img.shields.io/badge/-%20?style=for-the-badge&logo=react&logoColor=%2361DAFB&color=1e1e1e" alt="React" />
-  <img src="https://img.shields.io/badge/-%20?style=for-the-badge&logo=nextdotjs&logoColor=white&color=1e1e1e" alt="Next.js" />
-  <img src="https://img.shields.io/badge/-%20?style=for-the-badge&logo=astro&logoColor=%23BC52EE&color=1e1e1e" alt="Astro" />
-  <img src="https://img.shields.io/badge/-%20?style=for-the-badge&logo=tailwindcss&logoColor=%2306B6D4&color=1e1e1e" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/-%20?style=for-the-badge&logo=sass&logoColor=%23CC6699&color=1e1e1e" alt="SCSS" />
-  <img src="https://img.shields.io/badge/-%20?style=for-the-badge&logo=html5&logoColor=%23E34F26&color=1e1e1e" alt="HTML5" />
-  <img src="https://img.shields.io/badge/-%20?style=for-the-badge&logo=css3&logoColor=%231572B6&color=1e1e1e" alt="CSS3" />
-  <img src="https://img.shields.io/badge/-%20?style=for-the-badge&logo=markdown&logoColor=white&color=1e1e1e" alt="MDX" />
-  <img src="https://img.shields.io/badge/-%20?style=for-the-badge&logo=nodedotjs&logoColor=%235FA04E&color=1e1e1e" alt="Node.js" />
-  <img src="https://img.shields.io/badge/-%20?style=for-the-badge&logo=express&logoColor=white&color=1e1e1e" alt="Express.js" />
-  <img src="https://img.shields.io/badge/-%20?style=for-the-badge&logo=fastapi&logoColor=%23009688&color=1e1e1e" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/-%20?style=for-the-badge&logo=hibernate&logoColor=%2359666C&color=1e1e1e" alt="Hibernate / JPA" />
-  <img src="https://img.shields.io/badge/-%20?style=for-the-badge&logo=jsonwebtokens&logoColor=white&color=1e1e1e" alt="JWT" />
-  <img src="https://img.shields.io/badge/-%20?style=for-the-badge&logo=firebase&logoColor=%23FFCA28&color=1e1e1e" alt="Firebase Auth" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" alt="Astro.js" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SCSS" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="MDX" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="REST APIs" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" alt="Hibernate / JPA" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-plain.svg" alt="JWT Authentication" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase Auth" width="40" height="40" />
 </p>
 
 <p align="left">
   <!-- Fila 2: Backend restante (2) + Databases (5) + Tools & Services (11) = 18 -->
-  <img src="https://img.shields.io/badge/-%20?style=for-the-badge&logo=supabase&logoColor=%233ECF8E&color=1e1e1e" alt="Supabase Auth" />
-  <img src="https://img.shields.io/badge/-%20?style=for-the-badge&logo=mongoose&logoColor=%23880000&color=1e1e1e" alt="Mongoose" />
-  <img src="https://img.shields.io/badge/-%20?style=for-the-badge&logo=postgresql&logoColor=%234169E1&color=1e1e1e" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/-%20?style=for-the-badge&logo=mysql&logoColor=%234479A1&color=1e1e1e" alt="MySQL" />
-  <img src="https://img.shields.io/badge/-%20?style=for-the-badge&logo=databricks&logoColor=%23FF3621&color=1e1e1e" alt="H2 Database" />
-  <img src="https://img.shields.io/badge/-%20?style=for-the-badge&logo=mongodb&logoColor=%2347A248&color=1e1e1e" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/-%20?style=for-the-badge&logo=googlecloud&logoColor=%234285F4&color=1e1e1e" alt="Firestore" />
-  <img src="https://img.shields.io/badge/-%20?style=for-the-badge&logo=git&logoColor=%23F05032&color=1e1e1e" alt="Git" />
-  <img src="https://img.shields.io/badge/-%20?style=for-the-badge&logo=github&logoColor=white&color=1e1e1e" alt="GitHub" />
-  <img src="https://img.shields.io/badge/-%20?style=for-the-badge&logo=gitlab&logoColor=%23FC6D26&color=1e1e1e" alt="GitLab" />
-  <img src="https://img.shields.io/badge/-%20?style=for-the-badge&logo=docker&logoColor=%232496ED&color=1e1e1e" alt="Docker" />
-  <img src="https://img.shields.io/badge/-%20?style=for-the-badge&logo=vercel&logoColor=white&color=1e1e1e" alt="Vercel" />
-  <img src="https://img.shields.io/badge/-%20?style=for-the-badge&logo=vite&logoColor=%23646CFF&color=1e1e1e" alt="Vite" />
-  <img src="https://img.shields.io/badge/-%20?style=for-the-badge&logo=pnpm&logoColor=%23F69220&color=1e1e1e" alt="pnpm" />
-  <img src="https://img.shields.io/badge/-%20?style=for-the-badge&logo=gnubash&logoColor=%234EAA25&color=1e1e1e" alt="Bash" />
-  <img src="https://img.shields.io/badge/-%20?style=for-the-badge&logo=visualstudiocode&logoColor=%23007ACC&color=1e1e1e" alt="VSCode" />
-  <img src="https://img.shields.io/badge/-%20?style=for-the-badge&logo=intellijidea&logoColor=%23000000&color=1e1e1e" alt="IntelliJ IDEA" />
-  <img src="https://img.shields.io/badge/-%20?style=for-the-badge&logo=figma&logoColor=%23F24E1E&color=1e1e1e" alt="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" alt="Supabase Auth" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" alt="Mongoose" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="H2 Database" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Firestore" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="Vercel" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" alt="Vite" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pnpm/pnpm-original.svg" alt="pnpm" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" />
 </p>
